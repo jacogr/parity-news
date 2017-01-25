@@ -2,17 +2,17 @@
   "items": [
     {
       "title": "Web Dapps",
-      "background": "https://raw.githubusercontent.com/jacogr/parity-news/f087cc93981ffa40b9aabbf5865991bc1bfc5f01/images/connected.jpg",
+      "background": "https://cdn.rawgit.com/jacogr/parity-news/f087cc93981ffa40b9aabbf5865991bc1bfc5f01/images/connected.jpg",
       "markdown": "With Parity 1.5 support for accessing web-based dapps are build right into the client. Accessing any dapp is as simple as visiting the dapp using the <a href='#/web'>built-in browser</a>."
     },
     {
       "title": "User walk-through",
-      "background": "https://raw.githubusercontent.com/jacogr/parity-news/f087cc93981ffa40b9aabbf5865991bc1bfc5f01/images/reviews.jpg",
+      "background": "https://cdn.rawgit.com/jacogr/parity-news/f087cc93981ffa40b9aabbf5865991bc1bfc5f01/images/reviews.jpg",
       "markdown": "We love our community. And we really love the feedback that we receive that feeds into our release process.\nRecently we stumbled accross a new user walk-though of our latest release, which we really liked, as did the community on Reddit. <a href='https://www.youtube.com/watch?v=2aI3HXSDFy8' target='_blank'>MrYukonC's Parity walk-though</a>."
     },
     {
       "title": "Parity 1.5",
-      "background": "https://raw.githubusercontent.com/jacogr/parity-news/f087cc93981ffa40b9aabbf5865991bc1bfc5f01/takeout.jpg",
+      "background": "https://cdn.rawgit.com/jacogr/parity-news/f087cc93981ffa40b9aabbf5865991bc1bfc5f01/images/takeout.jpg",
       "markdown": "Packed with more features than ever before, the Parity 1.5 release is one we are immensely proud of. It certainly caused a stir in the community, even if it was just about the dress sense (or lack thereof?) of some of our developers.\n<a href='https://blog.ethcore.io/introducing-parity-1-5-nativity/' target='_blank'>Read the release accouncement</a>."
     }
   ]
