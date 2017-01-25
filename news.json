@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "image": "https://images/connected.jpg",
+      "title": "Dapps interface",
+      "description": ""
+    },
+    {
+      "image": "https://images/reviews.jpg",
+      "title": "User walk-throughs",
+      "description": ""
+    },
+    {
+      "image": "https://images/takeout.jpg",
+      "title": "Parity 1.5",
+      "description": ""
+    }
+  ]
+}
