@@ -23,6 +23,12 @@
           "head": {
             "background": "rgba(255, 50, 50, 0.75)",
             "color": "white"
+          },
+          "tags": {
+            "a": {
+              "color": "white",
+              "text-decoration": "underline"
+            }
           }
         }
       }
